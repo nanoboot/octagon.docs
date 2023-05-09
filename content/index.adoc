@@ -1,0 +1,22 @@
+= Octagon - Documentation
+
+////
++++
+title = "About"
+date = "2023-05-09"
+menu = "main"
++++
+////
+
+This site provides documentation for "Octagon" application.
+
+Motto: Cumulate everything in a single source of truth
+
+Octagon: blog, wiki, cms, ticket tracker, forum, chat
+
+Todos: Virtual column
+
+image::https://files.nanoboot.org/docs.nanoboot.org/octagon/screenshots/octagon_screenshot.jpg[]
+
+image::https://files.nanoboot.org/docs.nanoboot.org/octagon/screenshots/octagon_screenshot2.jpg[]
+
